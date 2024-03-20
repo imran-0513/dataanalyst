@@ -1,0 +1,14 @@
+department,total_count,terminated_count,turover_rate%
+Auditing,52,8,15.38
+Legal,311,39,12.54
+Marketing,494,47,9.51
+"Product Management",641,69,10.76
+Support,954,100,10.48
+"Research and Development",1084,127,11.72
+"Business Development",1642,156,9.50
+Services,1686,182,10.79
+Training,1692,197,11.64
+Sales,1832,205,11.19
+"Human Resources",1807,206,11.40
+Accounting,3333,371,11.13
+Engineering,6686,749,11.20
